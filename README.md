@@ -1,5 +1,5 @@
-Basic CRUD example using Node and React
+Basic CRUD example using Node and React  
 
-`yarn`
-`npm run client`
-`npm run server`
+`yarn`  
+`npm run client`  
+`npm run server`  
