@@ -1,6 +1,6 @@
 {
-  "name": "devsesh6-react-fullstack",
-  "version": "1.0.0",
+  "name": "whirlydoo",
+  "version": "0.0.1",
   "scripts": {
     "client": "cd client && react-scripts start",
     "server": "nodemon server/server.js",
