@@ -1,7 +1,7 @@
 {
   "name": "whirlydoo",
   "version": "0.0.1",
-  "proxy": "http://0.0.0.0:5000/",
+  "proxy": "http://ec2-18-224-18-43.us-east-2.compute.amazonaws.com:5000/",
   "dependencies": {
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
